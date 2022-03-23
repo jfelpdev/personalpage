@@ -5,4 +5,3 @@ So seeing that many companies are using link systems like linktree I said. Why n
 
 I hope you like it and if you want to use this little project for you, use it with total freedom. 
 
-Translated with www.DeepL.com/Translator (free version)
