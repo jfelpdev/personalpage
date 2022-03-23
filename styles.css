@@ -1,5 +1,5 @@
 body {
-    background-color: aqua;
+    background-color: #FFFFFF;
   
     color: white;
     font-family: "Open Sans", sans-serif;
@@ -21,14 +21,14 @@ body {
   .profile-name {
     text-align: center;
   
-    padding: 30px;
+    padding: 60px;
     font-size: 28px;
   }
   
   .links {
     text-align: center;
     margin-top: 20px;
-    border: 1px solid red;
+    border: 1px solid #121C2A;
     border-width: 2px;
     padding: 20px;
   
