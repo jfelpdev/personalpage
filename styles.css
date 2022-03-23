@@ -60,3 +60,10 @@ body {
     margin-bottom: 0%;
     margin-top: 4%;
   }
+
+  .certification {
+    margin-left: 0%;
+    image-orientation: flip;
+    display: block;
+    max-width: 500px; 
+  }
