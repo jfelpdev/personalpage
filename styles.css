@@ -66,8 +66,5 @@ body {
     image-orientation: flip;
     display: block;
     max-width: 400px; 
-  }
-
-  .pdf {
-
+    width: 100%;
   }
