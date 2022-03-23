@@ -1,7 +1,7 @@
 body {
-    background-color: #FFFFFF;
+    background-color: #121C2A;
   
-    color: #121C2A;
+    color: #ffffff;
     font-family: "Open Sans", sans-serif;
     letter-spacing: 2px;
   }
@@ -11,7 +11,7 @@ body {
     margin-left: auto;
     margin-right: auto;
   
-    margin-top: 20%;
+    margin-top: 2%;
     height: auto;
     max-width: 200px;
   
@@ -21,21 +21,22 @@ body {
   .profile-name {
     text-align: center;
   
-    padding: 60px;
+    padding: 10px;
     font-size: 28px;
   }
   
   .links {
     text-align: center;
     margin-top: 20px;
-    border: 1px solid #121C2A;
+    border: 1px solid #ffffff;
     border-width: 2px;
-    padding: 20px;
+    padding: 10px;
   
     width: 290px;
     display: block;
     margin-left: auto;
     margin-right: auto;
+    margin-bottom: 1%;
   
     border-radius: 40px;
   
@@ -45,11 +46,17 @@ body {
   a {
     text-decoration: none;
   
-    color: purple;
+    color: #ffffff;
     transition: color 1s;
   }
   
   a:hover {
-    color: black;
-    background-color: white;
+    color: #121C2A;
+    background-color: #ffffff;
+  }
+
+  .copyright-footer {
+    text-align: center;
+    margin-bottom: 0;
+    margin-top: 4%;
   }
